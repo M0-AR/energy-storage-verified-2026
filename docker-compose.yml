@@ -1,0 +1,21 @@
+services:
+  bench:
+    build: .
+    image: esbench:2026
+    volumes:
+      - ./results:/app/results
+      - ./data:/app/data
+    environment:
+      - PYTHONPATH=/app/src:$PYTHONPATH
+      - ESBENCH_OFFLINE=${ESBENCH_OFFLINE:-0}
+    command: ["bash", "-c", "pytest -q; python scripts/run_all.py --offline=${ESBENCH_OFFLINE:-0}"]
+  fetch-live:
+    build: .
+    image: esbench:2026
+    profiles: ["live"]
+    volumes:
+      - ./results:/app/results
+      - ./data:/app/data
+    environment:
+      - PYTHONPATH=/app/src:$PYTHONPATH
+    command: ["python", "scripts/fetch_live.py", "--out", "data/raw/live_provenance.json"]

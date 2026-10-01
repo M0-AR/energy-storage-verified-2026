@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+title: Energy Storage Verified 2026
+version: 0.1.0
+authors: [{family-names: ESBench, given-names: Contributors}]
+license: MIT
+repository-code: ./energy-storage-verified-2026
+keywords: [energy-storage, LCOS, Ragone, supercapacitor-SODR, HESS, PV-BESS, reproducibility]

@@ -1,0 +1,15 @@
+name,wh_per_kg_lo,wh_per_kg_hi,rte_lo,rte_hi,life_note,maturity,source
+Lead-acid,30.0,50.0,70,85,400-1200 cycles @80% DOD; -20..60C,mature,Brunet Ch8 Tab8.1 + MDPI2026
+Ni-Cd,45.0,80.0,65,75,~2000 cycles; memory effect; Cd toxicity,mature-declining,Brunet Ch8
+Ni-MH,60.0,120.0,65,75,~1500 cycles; low memory vs Ni-Cd,mature,Brunet Ch8
+Li-ion LFP (BESS),90.0,160.0,85,95,3000-6000 cycles; ATB RTE 85% rep.,dominant 2025-26,NLR ATB2025; MDPI2026; PNNL
+Li-ion NMC,150.0,250.0,85,95,"1000-3000 cycles; higher energy, Ni/Co risk",dominant EV,MDPI2026; WikiBattery 2026
+Sodium-ion,75.0,160.0,80,90,early commercial; crossover w/ LFP 2028-29,early-commercial,free-search 2026 survey; SciDirect 2025
+Vanadium redox-flow,15.0,35.0,65,85,>10k cycles; decoupled E/P; low density,commercial niche,DOE 2022; LDES2026 intraday-electrochem
+Supercapacitor (EDLC),4.0,10.0,90,98,1e5-1e6 cycles; 2.5-3V/cell; high self-discharge,commercial power,Brunet Ch9; Simon+Gogotsi
+Flywheel,5.0,50.0,85,95,"high power, short duration; low maintenance",commercial niche,MDPI2026 hybrid HESS
+Pumped hydro (PHES),0.5,1.5,70,85,30-60y; site-constrained; most robust LD,mature LD,MDPI2026; DOE2022
+CAES diabatic,3.0,6.0,45,60,Huntorf/McIntosh; fuel + air,commercial (2 sites+Jintan),howtostoreelectricity 2026
+CAES adiabatic (a-CAES),3.0,8.0,60,72,Hydrostor/ALACAES; heat store; lowest LCOS low-fee,demo-early commercial,LDES2026; SciDirect2026
+Hydrogen power-to-power,300.0,800.0,30,45,"tank 350-700bar or liquid -253C; 9-13% compress, 30-40% liquefy",demo + infra,DOE H2 prog; Brunet Ch5; Fruchard
+Thermal (sensible/PCM P2H),20.0,150.0,40,70,power-to-heat; $/kWh-th low,commercial (heat),LDES2026 thermal group

@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Energy Storage Verified 2026 — Reproducible Benchmarks</title>
+<meta name="description" content="From batteries to hydrogen: runnable benchmarks, live Grenoble solar, sizing optima, and cost drivers. MIT. Docker reproduces in 3 commands.">
+<style>
+:root{--ink:#0f172a;--mut:#475569;--bg:#f8fafc;--card:#ffffff;--acc:#065f46;--acc2:#0ea5e9;--warn:#b45309;--line:#e2e8f0}
+*{box-sizing:border-box}body{margin:0;font-family:Georgia,'Times New Roman',serif;color:var(--ink);background:var(--bg);line-height:1.6}
+header.hero{background:radial-gradient(1200px 500px at 20% -10%,#d1fae5,transparent),radial-gradient(1000px 500px at 90% 0%,#e0f2fe,transparent),#0f172a;color:#f8fafc;padding:56px 20px 40px}
+.wrap{max-width:1080px;margin:0 auto}
+.hero h1{font-size:clamp(28px,4.5vw,52px);margin:0 0 8px;font-style:italic}
+.hero p.tag{font-size:clamp(15px,2vw,20px);color:#cbd5e1;max-width:820px}
+.badges{margin:16px 0;display:flex;gap:8px;flex-wrap:wrap}
+.badges span{background:#1e293b;border:1px solid #334155;border-radius:999px;padding:4px 12px;font-size:13px;font-family:system-ui}
+.btns{margin-top:18px;display:flex;gap:12px;flex-wrap:wrap}
+.btns a{background:var(--acc);color:#fff;text-decoration:none;padding:10px 18px;border-radius:10px;font-family:system-ui;font-weight:600}
+.btns a.ghost{background:transparent;border:1px solid #475569}
+main{padding:28px 20px 64px}section.card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:24px;margin:18px 0;box-shadow:0 4px 24px rgba(15,23,42,.05)}
+h2{margin:0 0 10px;font-size:26px}h3{margin:18px 0 8px}p{color:#1e293b}code{background:#f1f5f9;padding:2px 6px;border-radius:6px;font-size:.92em}
+pre{background:#0f172a;color:#e2e8f0;padding:14px;border-radius:12px;overflow:auto;font-size:13.5px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px}
+.kpi{background:#f8fafc;border:1px solid var(--line);border-radius:12px;padding:14px}
+.kpi b{font-size:22px;display:block}.kpi span{color:var(--mut);font-size:13px;font-family:system-ui}
+table{width:100%;border-collapse:collapse;font-size:14px;font-family:system-ui}
+th,td{border-bottom:1px solid var(--line);padding:8px 10px;text-align:left}th{background:#f8fafc}
+figure{margin:14px 0}figure img,video{width:100%;border-radius:12px;border:1px solid var(--line);background:#fff}
+figcaption{font-size:13px;color:var(--mut);font-family:system-ui}
+.story{border-left:4px solid var(--acc);padding:8px 14px;margin:10px 0;background:#f0fdf4;border-radius:0 10px 10px 0}
+.warn{border-left:4px solid var(--warn);background:#fffbeb;padding:8px 14px;border-radius:0 10px 10px 0}
+details{border:1px solid var(--line);border-radius:10px;padding:10px 14px;margin:8px 0}summary{cursor:pointer;font-weight:bold}
+footer{color:var(--mut);font-size:13px;text-align:center;padding:24px;font-family:system-ui}
+@media(max-width:640px){section.card{padding:16px}}
+</style>
+</head>
+<body>
+<header class="hero"><div class="wrap">
+<h1>Energy Storage, Verified.</h1>
+<p class="tag"><b>CEO summary:</b> every storage choice is a flexibility trade. This MIT repo proves it with runnable code — batteries, supercapacitors, hydrogen, solar+storage — on live data. Pick the right tool in an afternoon, not a quarter. Docker reproduces everything in 3 commands.</p>
+<div class="badges"><span>MIT</span><span>Docker reproducible</span><span>5 tests passing</span><span>Live data 4/4</span><span>6 experiments</span></div>
+<div class="btns"><a href="#quick">Quick start →</a><a class="ghost" href="#demo">Watch 60-sec demo</a><a class="ghost" href="#stories">User stories</a></div>
+</div></header>
+<main class="wrap">
+
+<section class="card" id="demo">
+<h2>▶ 60-second demo</h2>
+<p>README autoplays the GIF. This page plays the full video. Both are generated from the same seeds as the experiments — numbers match.</p>
+<figure>
+<video controls muted loop playsinline width="100%" poster="assets/poster.png">
+<source src="assets/demo.mp4" type="video/mp4">
+<a href="assets/demo.gif">▶ Watch the demo GIF</a>
+</video>
+<figcaption>demo.mp4 (0.18 MB, H.264) + poster.png. GIF version: <a href="assets/demo.gif">assets/demo.gif</a> (2.2 MB).</figcaption>
+</figure>
+<figure><img src="assets/poster.png" alt="Demo poster — sizing, peak shave, live solar"><figcaption>Poster frame. Regenerate: <code>PYTHONPATH=src python3 scripts/make_demo.py</code></figcaption></figure>
+</section>
+
+<section class="card">
+<h2>What this is (and is not)</h2>
+<div class="grid">
+<div class="kpi"><b>14 techs</b><span>Ragone-style energy vs efficiency with ranges, not point hype</span></div>
+<div class="kpi"><b>SODR optimum</b><span>Supercap discharge-ratio d* = 0.56, N* = 227 @90% (not dogma 50%)</span></div>
+<div class="kpi"><b>Stacking pays</b><span>Peak-shave + frequency regulation together, no new peak</span></div>
+<div class="kpi"><b>Live sun</b><span>Grenoble October proves autonomy sizing; corrected RTE 0.90</span></div>
+</div>
+<p><b>Not</b> a product, price list, or vendor ranking. Costs are public ranges for modelling. Safety, permits, and detailed engineering still need a professional.</p>
+</section>
+
+<section class="card" id="quick">
+<h2>Quick start (3 commands)</h2>
+<pre>docker compose build bench
+docker compose run --rm bench bash -c "pytest -q &amp;&amp; python scripts/run_all.py --offline=0"
+ls results/figures results/tables data/raw</pre>
+<details><summary>Without Docker</summary><pre>pip install -r requirements.txt
+PYTHONPATH=src pytest -q
+PYTHONPATH=src python3 scripts/run_all.py --offline=0
+PYTHONPATH=src python3 scripts/make_demo.py</pre></details>
+<details><summary>Live refresh (no keys)</summary><pre>docker compose --profile live run --rm fetch-live
+cat data/raw/live_provenance.json</pre></details>
+</section>
+
+<section class="card" id="stories">
+<h2>Who is this for? (user stories)</h2>
+<div class="story"><b>Grid operator / utility planner:</b> compare 2–100 h options; see why a 40 h asset cycling a handful of times a year must be valued on capacity, not energy throughput. Use <code>results/tables/lcos_sweep.csv</code> + <code>ragone.csv</code>.</div>
+<div class="story"><b>Factory / depot manager (EV fleet):</b> a 50-vehicle depot pairs 350–500 kWp solar with 500–1000 kWh storage to hold demand under ~80 kW and cut $/kW demand charges. Use the joint peak-shave recipe (<code>src/esbench/joint.py</code>).</div>
+<div class="story"><b>Solar installer (off-grid):</b> size by autonomy-days × daily-use ÷ depth-of-discharge. October Grenoble shows load &gt; sun for days — the repo computes the deficit honestly instead of faking efficiency. Use <code>data/processed/pv_grenoble.csv</code>.</div>
+<div class="story"><b>EV / tram / elevator engineer:</b> split fast spikes to supercapacitors, bulk energy to batteries. Variation-coefficient rule tells when hybridisation pays (losses, not footprint). Use <code>results/figures/hess.png</code>.</div>
+<div class="story"><b>Student → professional:</b> every figure regenerates from seeds. Change one number, re-run, see the locus move. Read front-to-back: README → preview → <code>papers/METHODS.md</code> → code.</div>
+<div class="story"><b>Researcher (PhD-ready):</b> six open extensions in README §9 — stochastic SODR, geo-adaptive hybrid gains, efficiency-based scrapping, joint bidding, six-indicator early warning, 100-h capacity frontier.</div>
+</section>
+
+<section class="card">
+<h2>Features (everything in one place)</h2>
+<table><tr><th>Feature</th><th>What you get</th><th>Where</th></tr>
+<tr><td>Ragone map</td><td>14 technologies, Wh/kg + RTE ranges + maturity</td><td><code>results/tables/ragone.csv</code>, <code>ragone.png</code></td></tr>
+<tr><td>Supercap sizing</td><td>Energy locus + power locus + feasible N(d); SODR optimum; 90/92/94% curves</td><td><code>supercap_locus.csv/png</code></td></tr>
+<tr><td>Joint services</td><td>Threshold dispatch: peak cut + regulation served, peak-cap guard</td><td><code>data/processed/joint_day.csv</code></td></tr>
+<tr><td>Hybrid predictor</td><td>120 profiles; variation-coefficient vs saving, r=0.54</td><td><code>hess.csv/png</code></td></tr>
+<tr><td>PV + storage live</td><td>Grenoble solar, 5 kWh/2 kW dispatch, six indicators, deficit accounting</td><td><code>pv_grenoble.csv</code>, <code>pv_solar.png</code></td></tr>
+<tr><td>Cost drivers</td><td>30-point sweep: RTE × utilisation</td><td><code>lcos_sweep.csv</code>, <code>lcos.png</code></td></tr>
+<tr><td>Live proof</td><td>4 URLs with status/bytes/sha256/UTC</td><td><code>data/raw/live_provenance.json</code></td></tr>
+<tr><td>Demo media</td><td>GIF (README) + MP4 (this page) + poster, same seeds</td><td><code>assets/</code></td></tr></table>
+</section>
+
+<section class="card">
+<h2>Results (read like a pro in 5 minutes)</h2>
+<figure><img src="results/figures/ragone.png" alt="Ragone-style energy vs efficiency"><figcaption>No single winner: supercaps/batteries win power+efficiency; pumped-hydro/hydrogen win duration+scale.</figcaption></figure>
+<figure><img src="results/figures/supercap_locus.png" alt="Supercap sizing locus"><figcaption>Energy N rises with d, power N falls. Crossing = optimum. Higher efficiency target → higher d* (0.56→0.72).</figcaption></figure>
+<figure><img src="results/figures/lcos.png" alt="LCOS sensitivity"><figcaption>Efficiency 0.5→0.95 cuts proxy cost ~19%; low utilisation hurts more than chemistry.</figcaption></figure>
+<figure><img src="results/figures/joint_load.png" alt="Joint load"><figcaption>Shave the evening peak and serve fast regulation from the same battery — with a guard that never creates a new peak.</figcaption></figure>
+<figure><img src="results/figures/hess.png" alt="HESS variation"><figcaption>Spikier load → bigger hybrid saving. Size gains are small; loss/heat gains are large.</figcaption></figure>
+<figure><img src="results/figures/pv_solar.png" alt="Grenoble solar"><figcaption>Live October sun in Grenoble. Weak shoulder-season sun is why off-grid needs days of autonomy.</figcaption></figure>
+<div class="warn"><b>Honest limits:</b> simplified models, synthetic loads except live sun, no field telemetry, cost ranges not quotes. See README §10.</div>
+</section>
+
+<section class="card">
+<h2>Zero-to-hero path</h2>
+<p>1. Run quick start. 2. Open figures in order above. 3. Tweak <code>scripts/run_all.py</code> (e.g. efficiency 90→94, watch d* move). 4. Read <code>papers/METHODS.md</code> + <code>papers/BENCHMARK_SPEC.md</code>. 5. Pick a PhD extension. You are now dangerous (in a good way).</p>
+<details><summary>FAQ</summary>
+<p><b>Which battery?</b> Fast cycling + efficiency → LFP. Long, rare backup → think capacity cost, not just RTE. Cold/off-grid → check temperature + autonomy.</p>
+<p><b>Supercap or battery?</b> Seconds-to-minutes spikes → supercap buffer + battery bulk. Check variation-coefficient first.</p>
+<p><b>Hydrogen?</b> Huge mass energy, poor round-trip (30–45%) + compression/liquefaction penalty. Multi-day/seasonal or not at all.</p>
+<p><b>Why is my RTE &gt;1?</b> You spent initial stock. Use stock-corrected accounting (repo does).</p>
+</details>
+</section>
+
+<section class="card"><h2>License + share</h2><p>MIT — use, modify, share. Please cite this repo + the public sources in README §11. To publish: push to GitHub, enable Pages (serve <code>preview.html</code> + <code>assets/</code> + <code>results/</code>), attach <code>demo.gif</code> in README and <code>demo.mp4</code> here.</p></section>
+
+</main>
+<footer>Energy Storage Verified 2026 · MIT · Generated 2026-10-01 · All figures reproducible via Docker</footer>
+</body>
+</html>

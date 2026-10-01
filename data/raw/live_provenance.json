@@ -1,0 +1,45 @@
+{
+  "utc": "2026-10-01T12:10:54.698101+00:00",
+  "results": {
+    "open_meteo": {
+      "url": "https://api.open-meteo.com/v1/forecast?latitude=45.18&longitude=5.72&hourly=shortwave_radiation,temperature_2m&forecast_days=2&timezone=UTC",
+      "status": 200,
+      "bytes": 1687,
+      "sha256": "0df7449097d8c78f0ce4562e1b78a5387b71529e88b5e7d4e7657abe3cc6ca85",
+      "seconds": 4.945,
+      "utc": "2026-10-01T12:10:59.642624+00:00",
+      "ok": true,
+      "snippet": "{\"latitude\":45.18,\"longitude\":5.72,\"generationtime_ms\":0.1004934310913086,\"utc_offset_seconds\":0,\"timezone\":\"GMT\",\"timezone_abbreviation\":\"GMT\",\"elevation\":223.0,\"hourly_units\":{\"time\":\"iso8601\",\"shortwave_radiation\":\"W/m\u00b2\",\"temperature_2m\":\"\u00b0C\"},\"hourly\":{\"time\":[\"2026-10-01T00:00\",\"2026-10-01T01:00\",\"2026-10-01T02:00\",\"2026-10-01T03:00\",\"2026-10-01T04:00\",\"2026-10-01T05:00\",\"2026-10-01T06:00\","
+    },
+    "atb_data": {
+      "url": "https://atb.nlr.gov/electricity/2025/data",
+      "status": 200,
+      "bytes": 34520,
+      "sha256": "7659a6c0a2c433affa64cb4c0031adb0a87b5257648f314dbc3436485c2eeaa0",
+      "seconds": 8.602,
+      "utc": "2026-10-01T12:11:11.665505+00:00",
+      "ok": true,
+      "snippet": "<!DOCTYPE html>\n\n<html lang=\"en\">\n   <head>\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <meta name=\"referrer\" content=\"origin-when-cross-origin\">\n\n    <!-- CSRF Token -->\n    <meta name=\"csrf-token\" content=\"j3XUzEI5XE1iVDGIyG1eSWLYJ6TDwpn8UEdVAyFA\">\n\n    \n                <meta nam"
+    },
+    "atb_bess": {
+      "url": "https://atb.nlr.gov/electricity/2025/utility-scale_battery_storage",
+      "status": 200,
+      "bytes": 49427,
+      "sha256": "bf744575be6e7b740e520bf782430f3b14a15d567eea5ad28c3569d36155fd9f",
+      "seconds": 2.487,
+      "utc": "2026-10-01T12:11:16.180685+00:00",
+      "ok": true,
+      "snippet": "<!DOCTYPE html>\n\n<html lang=\"en\">\n   <head>\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <meta name=\"referrer\" content=\"origin-when-cross-origin\">\n\n    <!-- CSRF Token -->\n    <meta name=\"csrf-token\" content=\"netCwysHNAJx6W3Ow9KHfiVab6P6MgblVKtKCDTi\">\n\n    \n                <meta nam"
+    },
+    "pnnl": {
+      "url": "https://www.pnnl.gov/projects/esgc-cost-performance",
+      "status": 200,
+      "bytes": 79990,
+      "sha256": "9f1ef31f86fae5cdc5ba87c4c167e00ff0876c7ec4b7929fe7293409e9d95d3b",
+      "seconds": 5.721,
+      "utc": "2026-10-01T12:11:24.095854+00:00",
+      "ok": true,
+      "snippet": "\n\n<!DOCTYPE html>\n<html lang=\"en\" dir=\"ltr\" prefix=\"og: https://ogp.me/ns#\" class=\"no-js\">\n  <head>\n    <meta charset=\"utf-8\" />\n<link rel=\"canonical\" href=\"https://www.pnnl.gov/projects/esgc-cost-performance\" />\n<link rel=\"image_src\" href=\"https://www.pnnl.gov/sites/default/files/media/image/Hero%20Image-BatteryReliability-35.jpg\" />\n<meta property=\"og:site_name\" content=\"PNNL\" />\n<meta property="
+    }
+  }
+}

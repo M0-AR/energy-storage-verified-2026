@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+
+<html lang="en">
+   <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="referrer" content="origin-when-cross-origin">
+
+    <!-- CSRF Token -->
+    <meta name="csrf-token" content="ehZszEl8taIbosCAH4yjaeeStWiH9auetBQWT6GI">
+
+    
+                <meta name="tableau-loader-image" content="/img/other/tableau-animated-loader.png">
+    
+    <title>    Data | Electricity | 2025 | ATB | NLR
+</title>
+
+    <!-- == APPLICATION HEAD == -->
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-KG7PVKB');</script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Search engine code -->
+    <!--#config timefmt="%Y-%m-%d@%H:%M:%S %Z" -->
+    <meta http-equiv="last-modified" content="<!--#echo var='LAST_MODIFIED'-->">
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon-nlr.svg">
+
+    <!-- iOS icons -->
+    <link rel="apple-touch-icon" href="/client/img/touch-icon-iphone.png">
+    <link rel="apple-touch-icon" sizes="72x72"   href="/client/img/touch-icon-ipad.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/client/img/touch-icon-iphone-retina.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/client/img/touch-icon-ipad-retina.png">
+
+    <!-- GLOBAL styles -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+        crossorigin="anonymous">
+
+    <!-- NLR Application styles -->
+            <link href="/css/nrel.complete.min.css?1787688849" rel="stylesheet" type="text/css" >
+        <link href="/css/nrel.application.min.css?1787688849" rel="stylesheet" type="text/css" >
+    
+    <link href="/dist/css/app.css?1787688849" rel="stylesheet" type="text/css" >
+
+    
+                
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+            rel="stylesheet">
+
+    <!-- Font Awesome -->
+    
+    
+    <script src="/vendor/fontawesome/js/83c5c68c25.js"></script>
+
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+        integrity="sha384-vtXRMe3mGCbOeY7l30aIg8H9p3GdeSe4IFlP6G8JMa7o7lXvnz3GFKzPxzJdPfGK"
+        crossorigin="anonymous"></script>
+
+    <script>
+        window.APP_ENV = "production";
+    </script>
+
+    <!-- Microsoft Clarity tracking code -->
+    <script type="text/javascript">
+        (function(c,l,a,r,i,t,y){
+            c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+            t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+            y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+        })(window, document, "clarity", "script", "n4s46u4gq2");
+    </script>
+</head>
+	<body class="env-production">
+        <script>
+            function addLoadEvent(handler) {
+                const previousHandler = window.onload;
+                if (typeof window.onload != 'function') {
+                    return window.onload = handler;
+                }
+
+                window.onload = function() {
+                    if ( previousHandler ) {
+                        previousHandler();
+                    }
+                    handler();
+                }
+            }
+
+            // enable any tooltips
+            addLoadEvent(function() {
+                $('[data-toggle="tooltip"]').tooltip();
+            });
+        </script>
+
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KG7PVKB"
+                        sandbox
+                        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+
+                <!-- Site application banner -->
+        <!--stopindex-->
+        <div id="content-pane">
+            <a href="#content" class="sr-only app">Skip to main content</a>
+            <div id="announce-bar" class="bg-yellow announce-bar">
+        <a class="announce-bar-link" href="/register" style="textdecoration: underline;">
+    Sign up for general email updates regarding the ATB
+</a>
+
+<div class="d-none">
+   <a class="announce-bar-link" href="/register" style="textdecoration: underline;">
+      Sign up for general email updates regarding the ATB
+   </a>
+</div>
+<div class="d-none">
+    The 2024 Electricity ATB is live! Join the webinar to learn what's new. 
+    <a class="announce-bar-link" href="https://nrel.zoomgov.com/webinar/register/WN_mDY0z3ahTyyG_Y86xnZIaA" style="text-decoration: 
+    underline;"> Register to attend</a>
+     or
+    <a class="announce-bar-link" href="/register" style="text-decoration: underline;"> sign up for general email updates</a>.
+</div>
+    </div>
+
+            <header id="banner">
+    <div class="banner-logo">
+        <div class="container app">
+            <div class="row">
+
+                <div class="col-md-6 col-xl-4 order-md-2">
+                    <a href="https://www.nlr.gov"
+                        title="Visit the National Laboratory of the Rockies Homepage"
+                        aria-label="Visit the National Laboratory of the Rockies Homepage">
+                        
+                        
+                        <div class="logo" style="background-image: url('/client/img/nlr-logo-horizontal.svg')"></div>
+                    </a>
+                </div>
+
+                <div class="col-md-6 col-xl-8 order-md-1">
+                    <a href="/" class="app-name">Annual Technology Baseline</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>            <!-- TOP NAVIGATION -->
+<div class="program-header">
+    <div class="container">
+        <nav class="navbar navbar-expand-md navbar-light" aria-label="Main">
+            <div id="program-menu" class="mr-auto">
+                <button class="custom-toggler navbar-toggler" type="button" data-toggle="collapse" data-target="#topnav-collapse" aria-controls="topnav-collapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                    <span class="navbar-toggle-label">Menu</span>
+                </button>
+            </div>
+
+            <!-- Navigation -->
+            <div class="navbar-collapse collapse" id="topnav-collapse">
+                <ul class="nav navbar-nav">
+                                                                                                    <li class="dropdown nav-item active" data-topnav="electricity">
+                                <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown"
+                                role="button" aria-haspopup="true" aria-expanded="false">
+                                    Electricity <span class="fa fa-angle-down"></span>
+                                </a>
+                                <ul class="dropdown-menu" >
+                                    <li class="nav-item">
+                                        <a href="/electricity/2025/index"
+                                        class="nav-link">
+                                            Electricity <span class="fa fa-home"></span>
+                                        </a>
+                                    </li>
+                                                                                                                                                                                                    <li class="nav-item"><a href="/electricity/2025/about" class="nav-link">About</a></li>
+                                                                                                                                                                <li class="nav-item"><a href="/electricity/2025/technologies" class="nav-link">Technologies</a></li>
+                                                                                                                                                                <li class="nav-item"><a href="/electricity/2025/data" class="nav-link">Data</a></li>
+                                                                                                            </ul>
+                            </li>
+                                                                                                                            <li class="dropdown nav-item " data-topnav="transportation">
+                                <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown"
+                                role="button" aria-haspopup="true" aria-expanded="false">
+                                    Transportation <span class="fa fa-angle-down"></span>
+                                </a>
+                                <ul class="dropdown-menu" >
+                                    <li class="nav-item">
+                                        <a href="/transportation/2024/index"
+                                        class="nav-link">
+                                            Transportation <span class="fa fa-home"></span>
+                                        </a>
+                                    </li>
+                                                                                                                                                                                                    <li class="nav-item"><a href="/transportation/2024/about" class="nav-link">About</a></li>
+                                                                                                                                                                <li class="nav-item"><a href="/transportation/2024/technologies" class="nav-link">Technologies</a></li>
+                                                                                                                                                                <li class="nav-item"><a href="/transportation/2024/data" class="nav-link">Data</a></li>
+                                                                                                            </ul>
+                            </li>
+                                                                                                        </ul>
+
+                
+                <ul class="nav navbar-nav ml-auto">
+                                        <li class="dropdown nav-item " data-topnav="contact">
+                        <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown"
+                          role="button" aria-haspopup="true" aria-expanded="false">
+                            Contact<span class="fa fa-angle-down"></span>
+                        </a>
+                        <ul class="dropdown-menu" >
+                            <li class="nav-item">
+                                <a href="https://atb.nlr.gov/contact" class="nav-link">Contact Us</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://atb.nlr.gov/register" class="nav-link">Register for Updates</a>
+                            </li>
+                        </ul>
+                    </li>
+
+                                        <li data-topnav="archive" class="nav-item ">
+                        <a href="/archive" class="nav-link">Archive</a>
+                    </li>
+
+                                        <li data-topnav="search" class="nav-item ">
+                        <a href="https://atb.nlr.gov/search" class="nav-link">
+                            <i class="fa fa-search" alt="search" role=“searchbox”></i> Search
+                        </a>
+                    </li>
+
+                    <!-- Authentication Links -->
+                                            <li class="nav-item">
+                            <a class="nav-link" href="https://atb.nlr.gov/login">Login</a>
+                        </li>
+                                    </ul>
+            </div>
+        </nav>
+    </div>
+</div>            
+<div class="my-container" id="filter-container">
+    <div class="row">
+            </div>
+</div>
+
+<div class="container" id="content">
+    <div class="row">
+            <div class="col-md-9 order-md-last">
+                <main>
+                                            <div id="electricity_annual_technology_baseline_(atb)_data_download"></div><h1>Electricity Annual Technology Baseline Data Download</h1><p>Before downloading Annual Technology Baseline (ATB) data, read the <a href="./disclaimer">disclaimer agreement</a> and this guide to <a href="./technical_limitations">technical limitations</a>. All files are stored on the <a target="_blank" rel="noopener noreferrer" href="https://data.openei.org">Open Energy Data Initiative</a> (OEDI).&nbsp;</p><p>Corrections made since the initial release of the 2025 Electricity ATB are listed on the <a href="./errata">errata page</a>.</p>
+    <div id="2021_atb_data"></div><h2>2025 ATB Data</h2><h3><a target="_blank" rel="noopener noreferrer" href="https://data.openei.org/files/8759/2025_v1_Workbook_08-27-2026.xlsx">Download the 2025 ATB Excel Workbook</a></h3><p>Each year, the National Laboratory of the Rockies (NLR) ATB data are presented in an Excel workbook that contains detailed cost and performance data (both current and projected) for renewable and conventional technologies. The workbook contains a spreadsheet with data and calculations for each technology.&nbsp;</p>
+    <div id="download_the_2021_atb_summary_csv_files"></div><h3><a target="_blank" rel="noopener noreferrer" href="https://data.openei.org/s3_viewer?bucket=oedi-data-lake&amp;prefix=ATB%2Felectricity%2F">Download the 2025 ATB Summary CSV Files</a></h3><p>These CSV files summarize in database-friendly form the capital expenditures, operating expenditures, and capacity factor, as well as the financial assumptions and the levelized cost of energy, for each technology. They are reformatted from the summary section of the spreadsheet, which documents the underlying calculations and data. The same data are also available in <a target="_blank" rel="noopener noreferrer" href="https://data.openei.org/s3_viewer?bucket=oedi-data-lake&amp;prefix=ATB%2Felectricity%2Fparquet%2F&amp;limit=50">Apache Parquet format</a>.</p>
+    <div id="download_all_2021_tableau_workbooks"></div><h3><a target="_blank" rel="noopener noreferrer" href="https://data.openei.org/files/8759/2025_v1_Tableau_Workbooks_08-27-2026%20(1).zip">Download All 2025 Tableau Workbooks</a></h3><p>The charts on the ATB website were developed in a set of Tableau workbooks. These 19 workbooks are available as a single zip file. You can download a single workbook by following the instructions below to download a PowerPoint, but click on Tableau Workbook in the download menu.&nbsp;</p><h3>Instructions To Download Any Tableau Figure as a PowerPoint</h3><ol><li>Navigate to the Tableau visualization on the webpage.</li><li>Use the interactive filters to develop the view that you want.</li><li>Click the download button in the lower right-hand corner.</li><li>Select “PowerPoint.”</li><li>Select “This View.”</li><li>Click “Download.”</li><li>Select “view” or “save” the export, which comprises the current view and the set of active selection filters in a PowerPoint file.</li></ol>
+    <div id="download_all_related_data"></div><h3><a target="_blank" rel="noopener noreferrer" href="https://data.openei.org/submissions/8759">Download All Related Data</a></h3><p>View the entire OEDI entry for the 2025 ATB, including links to all of the above, previous versions of the data, parameter data with detailed capital expenditures (CAPEX) breakdowns, example scripts, and more.</p>
+    <div id="atb-calc_repository"></div><h2>ATB-calc GitHub Repository</h2><p>Python files and Jupyter notebooks for processing the ATB data and calculating metrics are available <a target="_blank" rel="noopener noreferrer" href="https://github.com/NatLabRockies/ATB-calc">on GitHub</a>. The ATB team held a webinar covering some example use cases for ATB-calc and answered questions. A <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=UE_YTdK1WxM">recording</a> is available.</p>
+    <div id="past_atb_data"></div><h3>Past ATB Data</h3><p>For data from past years—and an accompanying summary and documentation—see the <a href="/archive">ATB archives.</a></p>
+
+
+                </main>
+            </div>
+        <div class="col-md-3 order-md-first hidden-print side-nav-position-sticky">
+                <nav class="sidenav" aria-label="electricity">
+    <ul class="nav flex-column">
+                                                        <li class="nav-item ">
+                    <a href="/electricity/2025/about" class="nav-link">About</a>
+                </li>
+
+                
+                                                                <li class="nav-item ">
+                    <a href="/electricity/2025/technologies" class="nav-link">Technologies</a>
+                </li>
+
+                
+                                                                <li class="nav-item active">
+                    <a href="/electricity/2025/data" class="nav-link">Data</a>
+                </li>
+
+                
+                                    <li>
+                        <ul class="nav flex-column">
+                                                    </ul>
+                    </li>
+                                        </ul>
+</nav>        </div>
+    </div>
+</div>
+
+            <footer id="footer" class="hidden-print">
+    <hr class="funding-hr">
+    <div id="funding">
+        <p>
+            Developed with funding from the U.S. Department of Energy’s Office of Critical Minerals and Energy Innovation.
+        </p>
+    </div>
+    <hr class="funding-hr">
+    <div class="footertop">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-lg-5">
+                    <a href="https://www.nlr.gov/index.html"><strong>National Laboratory of the Rockies</strong></a>
+                </div>
+                <div class="col col-lg-7">
+                    <div class="d-flex flex-column flex-lg-row justify-content-lg-start global">
+                        <div><a href="https://www.nlr.gov/about/index.html">About</a></div>
+                        <div><a href="https://www.nlr.gov/research/index.html">Research</a></div>
+                        <div><a href="https://www.nlr.gov/index.html">Work With Us</a></div>
+                        <div><a href="https://www.nlr.gov/news/index.html">News</a></div>
+                        <div><a href="https://www.nlr.gov/careers/index.html">Careers</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="footerbottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-lg-5">
+                    <div><a href="https://atb.nlr.gov/contact">Contact Us</a></div>
+                    <div class="mt-2"><a href="https://www.nlr.gov/about/visiting-nrel.html">Visit</a></div>
+                    <div class="mt-2"><a href="https://www.nlr.gov/news/subscribe.html">Subscribe to NLR</a></div>
+                    <div class="mt-3">
+                        <ul class="social-links list-inline">
+                            <li class="list-inline-item"><a href="https://www.facebook.com/nationalrenewableenergylab" aria-label="Follow NLR on Facebook"><i class="fa fa-facebook-square"><!--facebook--></i></a>
+                            </li>
+                            <li class="list-inline-item"><a href="https://www.instagram.com/nationalrenewableenergylab/" aria-label="Follow NLR on Instagram"><i class="fa fa-instagram"><!--Instagram--></i></a></li>
+                            <li class="list-inline-item"><a href="https://www.linkedin.com/company/national-renewable-energy-laboratory"
+                                aria-label="Follow NLR on Linked In"><i class="fa fa-linkedin-square"><!--Linked In--></i></a>
+                            </li>
+                            <li class="list-inline-item"><a href="https://www.youtube.com/user/NRELPR/" aria-label="Follow NLR on YouTube"><i class="fa fa-youtube"><!--You Tube--></i></a>
+                            </li>
+                            <li class="list-inline-item"><a href="https://twitter.com/nrel/" aria-label="Follow NLR on Twitter"><i class="fa fa-twitter"><!--twitter--></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-8 col-lg-7 globalsecondary">
+                    <div class="row">
+                        <div class="col-sm-6 col-lg-3">
+                            <div class="mt-1"><a href="https://www.nlr.gov/accessibility.html">Accessibility</a></div>
+                            <div class="mt-1"><a href="https://www.nlr.gov/disclaimer.html">Disclaimer</a></div>
+                            <div class="mt-1"><a href="https://www.nlr.gov/security.html">Security and Privacy</a></div>
+                            <div class="mt-1"><a href="https://www.nlr.gov/webmaster.html">Site Feedback</a></div>
+                        </div>
+                        <div class="col-sm-6 col-lg-3">
+
+                            <div class="mt-1"><a href="https://developer.nlr.gov/">Developers</a></div>
+                            <div class="mt-1"><a href="https://thesource.nlr.gov/">Employees</a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <hr />
+            <div class="mt-4">
+                <div class="row">
+                    <div class="col-sm-5">
+                        <!-- Alliance for Sustainable Energy
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣇
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡞⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⡦⣄⠀⠀⠀⠀⠀⠀⠀⢰⣟⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⢞⡕⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⡯⢧⡀⠀⠀⠘⣦⠀⠘⣿⣿⣇⠀⠀⠠⡖⠁⠀⣀⠀⣡⠿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⣦⡨⣀⡀⠀⡾⡄⠀⣧⡿⣾⠀⡀⠞⠀⠀⠌⣡⣾⡷⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⢠⡤⠀⠀⠀⠀⠀⠀⠀⠠⢤⡀⠈⠻⣿⣿⣿⣂⠹⠁⠀⠋⣙⣿⢰⢹⠁⢀⠃⣴⡿⠝⠀⠀⠀⠀⡄⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠻⣜⣸⠤⣤⢀⡀⠀⠀⠀⢿⢄⠀⠸⣿⡿⢟⠜⣿⣀⠻⣿⡟⣠⣿⠀⠃⢀⣿⡟⠀⠀⠀⠀⡿⠀⠀⠀⠀⡠⢜⣧⠟⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠉⠛⢶⣭⣏⣵⡠⡀⠈⠿⣷⣤⡸⢿⣞⡬⣫⣟⡴⠯⠝⡣⣱⡀⣠⣾⣿⢁⢄⣮⡓⠋⠀⠀⡠⢒⢈⣼⠟⠁⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣭⡃⣉⢢⠝⠿⡊⣣⢿⠋⠋⠈⠀⠀⠀⠀⠀⠉⠛⢮⡰⣥⡺⢃⢠⠄⠂⢄⣠⣷⣿⠏⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠀⠀⢠⠄⡀⠈⠛⢿⣗⣷⣴⣈⡾⠙⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⡑⢋⣧⣄⣲⣼⣿⣿⡿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠀⠀⠀⠉⠒⠯⣄⣤⣒⢋⡾⡟⠒⠀⠀⠀⠀⠀⠀⠤⡴⠎⡪⠅⣠⢛⡿⣿⣿⣿⢿⢓⣶⠦⠔⠛⠛⠂⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⡀⢀⣀⣀⠠⣒⣈⢉⣉⠡⠀⠐⠀⠉⠁⣹⣶⠴⣣⢄⣄⣀⣅⠠⡁⣵⣺⣽⣾⣟⣿⣷⣦⣶⣿⠝⠀⣀⠐⢒⢢⢦⡄⣀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠁⠒⠚⠛⠛⠻⠿⢿⣶⣷⣶⣶⣾⣷⣯⣩⣬⣴⣤⣭⣼⣽⣯⣮⣷⣿⣿⣿⣿⣿⣿⣿⣿⣧⣶⡶⣶⣶⣶⣿⣯⣵⣿⣮⣿⣷⠶⠶⠔
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀⣀⢄⣪⣭⣿⣿⣿⣿⣿⣷⣿⣿⡿⣟⣿⡿⣻⣿⣿⣿⣇⣿⣿⢿⣏⣫⠡⢀⠈⠉⠉⠉⠉⠉⠁⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠈⠉⠉⣈⣿⢿⣿⣿⣷⣿⣿⣾⡿⣽⣾⣿⣻⣿⣿⣿⣿⣻⠟⠐⠋⠅⡛⠛⠛⠒⠒⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠀⠀⠀⣠⠐⢀⣀⣤⡴⣺⠿⢟⣿⡿⣿⣿⣿⡿⣷⣒⣹⣮⢿⡿⣿⢹⢝⣵⢿⠿⣿⣾⣄⣨⠱⣢⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠀⢀⣬⣧⣾⡿⠟⠋⠉⡡⣠⣴⠗⢿⡿⣾⣷⢧⣛⣿⣷⢢⡽⣾⣿⠿⣿⡟⠲⣜⣄⠉⠻⣿⣷⣇⣯⣆⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠔⣸⡿⠙⠉⠀⠀⣠⡞⠛⠉⠀⡘⣡⣴⡻⢛⣋⣿⣿⣻⢻⡏⢿⠽⣷⣼⣮⡄⠈⠛⢷⣄⠀⠉⠛⢿⣼⣦⡄⡀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠈⠊⠉⠁⠀⠀⠀⠀⠐⠋⠀⠀⠀⢰⣵⣯⣿⠁⢸⣿⢸⣿⣿⣿⢱⢸⠀⢻⣿⢻⣧⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠙⠂⠒⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠔⢀⣼⣿⠃⠀⢼⡇⠸⡑⣷⡇⠈⣿⠀⠈⣿⣞⣻⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⣀⣴⡿⠟⠁⠀⢐⡝⠀⢨⣗⣿⠇⠀⠿⠀⠀⠘⣿⣶⣻⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⡻⠋⠀⠀⠀⠀⠈⠀⠀⢸⣿⣼⡇⠀⠀⠀⠀⠀⠈⠻⣿⣷⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\=====================================================\
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ \\⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\\
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |\\⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\\
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ | \\⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\\
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |  \\⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\\
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |  |\\⠀----------------------- ⠀⠀----------------------⠀\\
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |  | \\⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\\
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |  |  \\⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\\
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |  |   \\⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\\
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |  |    \\⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\\
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |  |     \====================================================\
+                        -->
+                        <a href="https://www.alliance-for-energy-innovation.org/" title="Alliance for Energy Innovation, LLC">
+                            <img class="mr-5 mb-3"
+                                 src="/client/img/alliance-ei-logo_black.svg"
+                                 alt="Alliance for Energy Innovation, LLC"
+                                 width="200px"
+                                 >
+                        </a>
+                        <a href="https://www.energy.gov">
+                            <img src="/client/img/DOE-Logo-TM-Black.svg"
+                                alt="U.S. Department of Energy"
+                                class="mb-3"
+                                width="130px"
+                                >
+                        </a>
+                    </div>
+                    <div class="col-12 col-sm-7">
+                        <p class="nlr-attr">
+                            The National Laboratory of the Rockies is a national laboratory of the U.S. Department of Energy,
+                            Office of Critical Minerals and Energy Innovation, operated under Contract No. DE-AC36-08GO28308.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!--startindex-->
+<!-- == END APPLICATION FOOTER == -->
+
+<!-- == GLOBAL APPLICATION SCRIPTS == -->
+    <!-- Bootstrap -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+            integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+            crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+            integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+            crossorigin="anonymous"></script>
+
+    <!-- Global scripts -->
+    <script src="https://atb.nlr.gov/dist/js/libs.js" defer></script>
+    <script src="https://atb.nlr.gov/dist/js/app.js" defer></script>
+
+    <!-- == END GLOBAL APPLICATION SCRIPTS == -->
+
+        <script src="https://public.tableau.com/javascripts/api/tableau-2.0.0.min.js"></script>
+    
+
+    <script src="/dist/js/loadtableau.js?1787688849"></script>
+    <script src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js"
+        integrity="sha384-Wuix6BuhrWbjDBs24bXrjf4ZQ5aFeFWBuKkFekO2t8xFU0iNaLQfp2K6/1Nxveei"
+        id="MathJax-script" async crossorigin="anonymous">
+    </script>
+    
+<!-- Site application scripts -->
+<script src="/dist/js/plugins.js"></script>
+        </div>
+
+        
+        <div id="verification-pane" class="d-none">
+    <div class="container">
+        <div class="row issues-header">
+            <div class="col-1"> Section </div>
+            <div class="col-2"> Issue Type </div>
+            <div class="col-4"> Problem Text </div>
+            <div class="col-5"> Suggestion </div>
+        </div>
+        <hr>
+        <div id="issues-contents">
+            
+        </div>
+    </div>
+</div>	</body>
+</html>

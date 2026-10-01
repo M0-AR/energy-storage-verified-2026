@@ -1,0 +1,599 @@
+<!DOCTYPE html>
+
+<html lang="en">
+   <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="referrer" content="origin-when-cross-origin">
+
+    <!-- CSRF Token -->
+    <meta name="csrf-token" content="EccV8TcUsLEJUdrOjZAbj0t19FOQcoNLKa1Y0nV6">
+
+    
+                <meta name="tableau-loader-image" content="/img/other/tableau-animated-loader.png">
+    
+    <title>    Utility-Scale Battery Storage | Electricity | 2025 | ATB | NLR
+</title>
+
+    <!-- == APPLICATION HEAD == -->
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-KG7PVKB');</script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Search engine code -->
+    <!--#config timefmt="%Y-%m-%d@%H:%M:%S %Z" -->
+    <meta http-equiv="last-modified" content="<!--#echo var='LAST_MODIFIED'-->">
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon-nlr.svg">
+
+    <!-- iOS icons -->
+    <link rel="apple-touch-icon" href="/client/img/touch-icon-iphone.png">
+    <link rel="apple-touch-icon" sizes="72x72"   href="/client/img/touch-icon-ipad.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/client/img/touch-icon-iphone-retina.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/client/img/touch-icon-ipad-retina.png">
+
+    <!-- GLOBAL styles -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+        crossorigin="anonymous">
+
+    <!-- NLR Application styles -->
+            <link href="/css/nrel.complete.min.css?1787688849" rel="stylesheet" type="text/css" >
+        <link href="/css/nrel.application.min.css?1787688849" rel="stylesheet" type="text/css" >
+    
+    <link href="/dist/css/app.css?1787688849" rel="stylesheet" type="text/css" >
+
+    
+                
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+            rel="stylesheet">
+
+    <!-- Font Awesome -->
+    
+    
+    <script src="/vendor/fontawesome/js/83c5c68c25.js"></script>
+
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+        integrity="sha384-vtXRMe3mGCbOeY7l30aIg8H9p3GdeSe4IFlP6G8JMa7o7lXvnz3GFKzPxzJdPfGK"
+        crossorigin="anonymous"></script>
+
+    <script>
+        window.APP_ENV = "production";
+    </script>
+
+    <!-- Microsoft Clarity tracking code -->
+    <script type="text/javascript">
+        (function(c,l,a,r,i,t,y){
+            c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+            t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+            y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+        })(window, document, "clarity", "script", "n4s46u4gq2");
+    </script>
+</head>
+	<body class="env-production">
+        <script>
+            function addLoadEvent(handler) {
+                const previousHandler = window.onload;
+                if (typeof window.onload != 'function') {
+                    return window.onload = handler;
+                }
+
+                window.onload = function() {
+                    if ( previousHandler ) {
+                        previousHandler();
+                    }
+                    handler();
+                }
+            }
+
+            // enable any tooltips
+            addLoadEvent(function() {
+                $('[data-toggle="tooltip"]').tooltip();
+            });
+        </script>
+
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KG7PVKB"
+                        sandbox
+                        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+
+                <!-- Site application banner -->
+        <!--stopindex-->
+        <div id="content-pane">
+            <a href="#content" class="sr-only app">Skip to main content</a>
+            <div id="announce-bar" class="bg-yellow announce-bar">
+        <a class="announce-bar-link" href="/register" style="textdecoration: underline;">
+    Sign up for general email updates regarding the ATB
+</a>
+
+<div class="d-none">
+   <a class="announce-bar-link" href="/register" style="textdecoration: underline;">
+      Sign up for general email updates regarding the ATB
+   </a>
+</div>
+<div class="d-none">
+    The 2024 Electricity ATB is live! Join the webinar to learn what's new. 
+    <a class="announce-bar-link" href="https://nrel.zoomgov.com/webinar/register/WN_mDY0z3ahTyyG_Y86xnZIaA" style="text-decoration: 
+    underline;"> Register to attend</a>
+     or
+    <a class="announce-bar-link" href="/register" style="text-decoration: underline;"> sign up for general email updates</a>.
+</div>
+    </div>
+
+            <header id="banner">
+    <div class="banner-logo">
+        <div class="container app">
+            <div class="row">
+
+                <div class="col-md-6 col-xl-4 order-md-2">
+                    <a href="https://www.nlr.gov"
+                        title="Visit the National Laboratory of the Rockies Homepage"
+                        aria-label="Visit the National Laboratory of the Rockies Homepage">
+                        
+                        
+                        <div class="logo" style="background-image: url('/client/img/nlr-logo-horizontal.svg')"></div>
+                    </a>
+                </div>
+
+                <div class="col-md-6 col-xl-8 order-md-1">
+                    <a href="/" class="app-name">Annual Technology Baseline</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>            <!-- TOP NAVIGATION -->
+<div class="program-header">
+    <div class="container">
+        <nav class="navbar navbar-expand-md navbar-light" aria-label="Main">
+            <div id="program-menu" class="mr-auto">
+                <button class="custom-toggler navbar-toggler" type="button" data-toggle="collapse" data-target="#topnav-collapse" aria-controls="topnav-collapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                    <span class="navbar-toggle-label">Menu</span>
+                </button>
+            </div>
+
+            <!-- Navigation -->
+            <div class="navbar-collapse collapse" id="topnav-collapse">
+                <ul class="nav navbar-nav">
+                                                                                                    <li class="dropdown nav-item active" data-topnav="electricity">
+                                <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown"
+                                role="button" aria-haspopup="true" aria-expanded="false">
+                                    Electricity <span class="fa fa-angle-down"></span>
+                                </a>
+                                <ul class="dropdown-menu" >
+                                    <li class="nav-item">
+                                        <a href="/electricity/2025/index"
+                                        class="nav-link">
+                                            Electricity <span class="fa fa-home"></span>
+                                        </a>
+                                    </li>
+                                                                                                                                                                                                    <li class="nav-item"><a href="/electricity/2025/about" class="nav-link">About</a></li>
+                                                                                                                                                                <li class="nav-item"><a href="/electricity/2025/technologies" class="nav-link">Technologies</a></li>
+                                                                                                                                                                <li class="nav-item"><a href="/electricity/2025/data" class="nav-link">Data</a></li>
+                                                                                                            </ul>
+                            </li>
+                                                                                                                            <li class="dropdown nav-item " data-topnav="transportation">
+                                <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown"
+                                role="button" aria-haspopup="true" aria-expanded="false">
+                                    Transportation <span class="fa fa-angle-down"></span>
+                                </a>
+                                <ul class="dropdown-menu" >
+                                    <li class="nav-item">
+                                        <a href="/transportation/2024/index"
+                                        class="nav-link">
+                                            Transportation <span class="fa fa-home"></span>
+                                        </a>
+                                    </li>
+                                                                                                                                                                                                    <li class="nav-item"><a href="/transportation/2024/about" class="nav-link">About</a></li>
+                                                                                                                                                                <li class="nav-item"><a href="/transportation/2024/technologies" class="nav-link">Technologies</a></li>
+                                                                                                                                                                <li class="nav-item"><a href="/transportation/2024/data" class="nav-link">Data</a></li>
+                                                                                                            </ul>
+                            </li>
+                                                                                                        </ul>
+
+                
+                <ul class="nav navbar-nav ml-auto">
+                                        <li class="dropdown nav-item " data-topnav="contact">
+                        <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown"
+                          role="button" aria-haspopup="true" aria-expanded="false">
+                            Contact<span class="fa fa-angle-down"></span>
+                        </a>
+                        <ul class="dropdown-menu" >
+                            <li class="nav-item">
+                                <a href="https://atb.nlr.gov/contact" class="nav-link">Contact Us</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://atb.nlr.gov/register" class="nav-link">Register for Updates</a>
+                            </li>
+                        </ul>
+                    </li>
+
+                                        <li data-topnav="archive" class="nav-item ">
+                        <a href="/archive" class="nav-link">Archive</a>
+                    </li>
+
+                                        <li data-topnav="search" class="nav-item ">
+                        <a href="https://atb.nlr.gov/search" class="nav-link">
+                            <i class="fa fa-search" alt="search" role=“searchbox”></i> Search
+                        </a>
+                    </li>
+
+                    <!-- Authentication Links -->
+                                            <li class="nav-item">
+                            <a class="nav-link" href="https://atb.nlr.gov/login">Login</a>
+                        </li>
+                                    </ul>
+            </div>
+        </nav>
+    </div>
+</div>            
+<div class="my-container" id="filter-container">
+    <div class="row">
+            </div>
+</div>
+
+<div class="container" id="content">
+    <div class="row">
+            <div class="col-md-9 order-md-last">
+                <main>
+                                            <h1 id="utility-scale_battery_storage">Utility-Scale Battery Storage</h1><div class="tableauPlaceholder" url="https://public.tableau.com/views/2025CMTS/TechSummary?:embed=y&amp;:toolbar=no&amp;Technology=Utility-Scale Battery Storage&amp;Core Metric Parameter=CAPEX,Fixed O%26M,Variable O%26M,OCC"></div><atb-caption-note><p>The battery storage technologies do not calculate levelized cost of energy (LCOE) or levelized cost of storage (LCOS) and so do not use financial assumptions. Therefore, all parameters are the same for the research and development (R&amp;D) and Markets &amp; Policies Financials cases.</p></atb-caption-note><p>The 2025 Annual Technology Baseline (ATB) represents cost and performance for battery storage with durations of 2, 4, 6, 8, and 10 hours. It represents lithium-ion batteries (LIBs), with specific costs based on lithium iron phosphate (LFP) battery cells.</p><p>Base Year costs for utility-scale battery energy storage systems (BESS) are based on a bottom-up cost model using the data and methodology for utility-scale BESS in&nbsp;<a href="#ZU2KIRHU">(Cole et al., 2025)</a>. The bottom-up BESS model accounts for major components, including the LIB pack, the inverter, and the balance of system (BOS) needed for the installation. Using the detailed cost models for LIB, we develop Base Year costs for a 60-megawatt (MW) BESS with storage durations of 2, 4, 6, 8, and 10 hours. Base Year installed capital costs for BESS decrease with duration (for direct storage, measured in $/kilowatt-hour [kWh]), whereas system costs (in $/kilowatt [kW]) increase. This inverse behavior is observed for all energy storage technologies and highlights the importance of distinguishing the two types of battery capacity (energy and power) when discussing the cost of energy storage.&nbsp;</p>
+    <h2 id="scenario_descriptions">Scenario Descriptions</h2><p>Battery cost and performance projections in the 2025 ATB are based on a literature review of 16 sources published in 2023, 2024, and early 2025, as described by Cole et&nbsp;al.&nbsp;<a href="#ZU2KIRHU">(Cole et al., 2025)</a>. Three projections for 2023 to 2050 are developed for scenario modeling based on this literature. In all cases, the projection from 2050 through 2060 is extrapolated from the pre-2050 cost reductions, assuming the rate of decline from 2050 through 2060 is half the rate of decline from 2035 to 2050.</p><p>In the three scenarios described below, costs of battery storage are anticipated to continue to decline over the long term. The Storage Futures Study&nbsp;<a href="#HFMAZCIN">(Augustine and Blair, 2021)</a>&nbsp;describes how a greater share of this cost reduction comes from the battery pack cost component with fewer cost reductions in BOS, installation, and other components of the cost. The Storage Futures Study report&nbsp;indicates the National Laboratory of the Rockies (NLR), BloombergNEF (<a target="_blank" rel="noopener noreferrer" href="https://about.bnef.com/blog/battery-pack-prices-fall-to-an-average-of-132-kwh-but-rising-commodity-prices-start-to-bite/">BNEF</a>), and others anticipate the growth of the overall battery industry—across the consumer electronics sector, the transportation sector, and the electric utility sector—will lead to cost reductions in the long term. In the short term, some analysts expect flat or even increasing pricing for battery storage. In addition, BNEF and others indicate changes in lithium-ion chemistry will also reduce costs as the technology evolves. A third key factor is ongoing innovation with significant corporate and public research on batteries. Finally, the growth in the market (effective learning-by-doing), greater energy densities, and an increased diversity of chemistries will expand and change the dynamics of the supply chain for batteries, resulting in cheaper inputs to the battery pack&nbsp;<a href="#UM8QAF7K">(Mann et al., 2022)</a>.</p><p>The three scenarios for technology innovation are as follows:</p><ul><li><strong>Conservative Technology Innovation Scenario (Conservative Scenario):</strong> The conservative projection comprises the maximum projection in 2026, 2035, and 2050 from the cost projections in the literature review&nbsp;<a href="#ZU2KIRHU">(Cole et al., 2025)</a>.</li><li><strong>Moderate Technology Innovation Scenario (Moderate Scenario):</strong> The moderate projection is taken as the median point in 2026, 2035, and 2050 from the projections reviewed.</li><li><strong>Advanced Technology Innovation Scenario (Advanced Scenario): </strong>The advanced projections are taken as the lowest cost point in 2026, 2035, and 2050 from the projections reviewed.</li></ul>
+    <h3 id="scenario_assumptions">Scenario Assumptions</h3><p>Scenario assumptions were derived using a literature review and are not based on learning curves or deployment projections.</p><p>For a 60-MW 4-hour battery, the technology innovation scenarios for utility-scale BESS described above result in overnight capital cost reductions of 22% (Conservative Scenario), 45% (Moderate Scenario), and 66% (Advanced Scenario) between 2023 and 2035, with the largest cost reduction occurring from 2023 to 2024. The benchmark costs that are the focus of&nbsp;<a href="#ZU2KIRHU">(Cole et al., 2025)</a>&nbsp;focus on the costs for 2024, with 2023 costs retained from the 2024 ATB.</p><p>Between 2035 and 2050, the capital expenditure (CAPEX) reductions are 5% for the Conservative Scenario, 26% for the Moderate Scenario, and 27% for the Advanced cenario.</p>
+    <h2 id="methodology">Methodology</h2><p><strong>Projected Utility-Scale BESS Costs:</strong> Future cost projections for utility-scale BESS are based on a synthesis of cost projections for 4-hour-duration systems as described by&nbsp;<a href="#ZU2KIRHU">(Cole et al., 2025)</a>. The share of energy and power costs for batteries is based on the bottom-up cost model used in that work.</p>
+    <h3 id="capital_expenditures_(capex)">Capital Expenditures (CAPEX)</h3><p><strong>Definition:&nbsp;</strong>The bottom-up cost model used by&nbsp;<a href="#ZU2KIRHU">(Cole et al., 2025)</a>&nbsp;contains detailed cost components for battery-only systems costs. The costs for a 4-hour utility-scale stand-alone battery are detailed in Figure 1.</p><p><atb-caption class="atbv2-caption">Figure 1. Cost details for utility-scale storage (4-hour duration, 240-megawatt hour [MWh] usable)&nbsp;</atb-caption></p><figure class="image"><img src="/img/electricity/2025/p336/v1/utility_bess.png"></figure><p><strong>Current Year (2023):</strong> The 2023 cost for the 2025 ATB is assumed to be 30% higher than the 2024 cost based on estimates of cost changes from 2023 to 2024. The bottom-up cost modeling presented by&nbsp;<a href="#ZU2KIRHU">(Cole et al., 2025)</a>&nbsp;performs bottom-up cost modeling starting with 2024 systems.</p><p>Within the&nbsp;<a href="./data">ATB Data</a>&nbsp;spreadsheet, costs are separated into energy and power cost estimates, which allows capital costs to be calculated for durations other than 4 hours according to the following equation:</p><p>$$ \text{Total System Cost (\$/kW)} = \text{Battery Pack Cost (\$/kWh)} \times \text{Storage Duration (hr)} + \text{BOS Cost (\$/kW)} $$</p><p>For more information on the power versus energy cost breakdown, see&nbsp;<a href="#ZU2KIRHU">(Cole et al., 2025)</a>.&nbsp;</p><p><atb-caption class="atbv2-caption">Components of CAPEX</atb-caption></p><div class="tableauPlaceholder" url="https://public.tableau.com/views/2025CAPEX/Inclusions?:embed=y&amp;:toolbar=no&amp;Technology=All,Utility-Scale Battery Storage"></div><p><strong>Future </strong><strong>Projections:</strong> Future cost projections for utility-scale BESS are based on a synthesis of cost projections for 4-hour duration systems as described by Cole et&nbsp;al.&nbsp;<a href="#ZU2KIRHU">(Cole et al., 2025)</a>, which used the median of published cost estimates to develop a Moderate Technology Cost Scenario and the maximum and minimum values to develop the Conservative and Advanced Technology Cost Scenarios, respectively. Within these projections, the energy portions of the capital cost decline more rapidly than the battery portions of the capital costs.&nbsp;This results in greater cost declines for longer-duration batteries (e.g., 10 hours) relative to shorter-duration batteries (e.g., 2 hours) into the future.</p><div class="tableauPlaceholder" url="https://public.tableau.com/views/2025Literature/Projections?:embed=y&amp;:toolbar=no&amp;Technology=Utility-Scale Battery Storage&amp;Metric Filter=CAPEX"></div><p>&nbsp;</p>
+    <h3 id="operation_and_maintenance_(o&m)_costs">Operation and Maintenance (O&M) Costs</h3><p><strong>Base </strong><strong>Year:</strong>&nbsp;<a href="#ZU2KIRHU">(Cole et al., 2025)</a>&nbsp;assume no variable&nbsp;<a class="atbv2-def-link" term="O&amp;M" href="definitions#o&amp;m"><span>O&amp;M</span></a>&nbsp;(VOM) costs. All operating costs are instead represented using fixed O&amp;M (FOM) costs. The FOM costs include battery augmentation costs, which enables the system to operate at its rated capacity throughout its 15-year lifetime. FOM costs are estimated at 4% of the capital costs in $/kW. Items included in O&amp;M are shown in the table below.</p><p><atb-caption class="atbv2-caption">Components of O&amp;M Costs</atb-caption></p><div class="tableauPlaceholder" url="https://public.tableau.com/views/2025OPEX/Dashboard1?:embed=y&amp;:toolbar=no&amp;Technology=All,Utility-Scale Battery"></div><p><strong>Future Years: </strong>In the 2025 ATB, the FOM costs and the VOM costs remain constant at the values listed above for all scenarios.</p>
+    <h3 id="capacity_factor">Capacity Factor</h3><p>The cost and performance of the battery systems are based on an assumption of approximately one cycle per day. Therefore, a 4-hour device has an expected capacity factor of 16.7% (4/24 = 0.167), and a 2-hour device has an expected capacity factor of 8.3% (2/24 = 0.083). Degradation is a function of the usage rate of the model, and systems might need to be replaced at some point during the analysis period. We use the capacity factor for a 4-hour device as the default value for the ATB because 4-hour durations are anticipated to be more typical in the utility-scale market.</p><h3>Roundtrip Efficiency</h3><p>Roundtrip efficiency is the ratio of useful energy output to useful energy input.&nbsp;Based on Cole et&nbsp;al.&nbsp;<a href="#ZU2KIRHU">(Cole et al., 2025)</a>, the 2025 ATB assumes a roundtrip efficiency of 85%.</p>
+
+<h2 id="references"> References </h2>
+    <p>The following references are specific to this page; for all references in
+    this ATB, see <a href="./references">References</a>.</p>
+            <p><div id="HFMAZCIN" class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
+  <div class="csl-entry">Augustine, Chad, and Nate Blair. &#x201C;Energy Storage Futures Study: Storage Technology Modeling Input Data Report.&#x201D; Golden, CO: National Renewable Energy Laboratory, 2021. <a href="https://dx.doi.org/10.2172/1785959">https://dx.doi.org/10.2172/1785959</a>.</div>
+</div></p>
+            <p><div id="ZU2KIRHU" class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
+  <div class="csl-entry">Cole, Wesley, Vignesh Ramasamy, and Merve Olmez Turan. &#x201C;Cost Projections for Utility-Scale Battery Storage: 2025 Update.&#x201D; Golden, CO: National Renewable Energy Laboratory, 2025. <a href="https://doi.org/10.2172/2583471">https://doi.org/10.2172/2583471</a>.</div>
+</div></p>
+            <p><div id="UM8QAF7K" class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
+  <div class="csl-entry">Mann, Margaret, Vicky Putsche, and Benjamin Sharger. &#x201C;Grid Energy Storage: Supply Chain Deep Dive Assessment.&#x201D; Washington, D.C.: U.S. Department of Energy, February 24, 2022. <a href="https://www.energy.gov/policy/securing-americas-clean-energy-supply-chain">https://www.energy.gov/policy/securing-americas-clean-energy-supply-chain</a>.</div>
+</div></p>
+    
+                </main>
+            </div>
+        <div class="col-md-3 order-md-first hidden-print side-nav-position-sticky">
+                <nav class="sidenav" aria-label="electricity">
+    <ul class="nav flex-column">
+                                                        <li class="nav-item ">
+                    <a href="/electricity/2025/about" class="nav-link">About</a>
+                </li>
+
+                
+                                                                <li class="nav-item ">
+                    <a href="/electricity/2025/technologies" class="nav-link">Technologies</a>
+                </li>
+
+                
+                                    <li>
+                        <ul class="nav flex-column">
+                                                            <li class="nav-item ">
+                                    <a href="/electricity/2025/land-based_wind" class="nav-link">
+                                        Land-Based Wind
+                                    </a>
+                                </li>
+
+                                
+                                                                                            <li class="nav-item ">
+                                    <a href="/electricity/2025/offshore_wind" class="nav-link">
+                                        Offshore Wind
+                                    </a>
+                                </li>
+
+                                
+                                                                                            <li class="nav-item ">
+                                    <a href="/electricity/2025/distributed_wind" class="nav-link">
+                                        Distributed Wind
+                                    </a>
+                                </li>
+
+                                
+                                                                                            <li class="nav-item ">
+                                    <a href="/electricity/2025/utility-scale_pv" class="nav-link">
+                                        Utility-Scale PV
+                                    </a>
+                                </li>
+
+                                
+                                                                                            <li class="nav-item ">
+                                    <a href="/electricity/2025/commercial_pv" class="nav-link">
+                                        Commercial PV
+                                    </a>
+                                </li>
+
+                                
+                                                                                            <li class="nav-item ">
+                                    <a href="/electricity/2025/residential_pv" class="nav-link">
+                                        Residential PV
+                                    </a>
+                                </li>
+
+                                
+                                                                                            <li class="nav-item ">
+                                    <a href="/electricity/2025/concentrating_solar_power" class="nav-link">
+                                        Concentrating Solar Power
+                                    </a>
+                                </li>
+
+                                
+                                                                                            <li class="nav-item ">
+                                    <a href="/electricity/2025/geothermal" class="nav-link">
+                                        Geothermal
+                                    </a>
+                                </li>
+
+                                
+                                                                                            <li class="nav-item ">
+                                    <a href="/electricity/2025/hydropower" class="nav-link">
+                                        Hydropower
+                                    </a>
+                                </li>
+
+                                
+                                                                                            <li class="nav-item ">
+                                    <a href="/electricity/2025/utility-scale_pv-plus-battery" class="nav-link">
+                                        Utility-Scale PV-Plus-Battery
+                                    </a>
+                                </li>
+
+                                
+                                                                                            <li class="nav-item active">
+                                    <a href="/electricity/2025/utility-scale_battery_storage" class="nav-link">
+                                        Utility-Scale Battery Storage
+                                    </a>
+                                </li>
+
+                                
+                                                                    <li>
+                                        <ul class="nav flex-column">
+                                                                                    </ul>
+                                    </li>
+                                                                                            <li class="nav-item ">
+                                    <a href="/electricity/2025/commercial_battery_storage" class="nav-link">
+                                        Commercial Battery Storage
+                                    </a>
+                                </li>
+
+                                
+                                                                                            <li class="nav-item ">
+                                    <a href="/electricity/2025/residential_battery_storage" class="nav-link">
+                                        Residential Battery Storage
+                                    </a>
+                                </li>
+
+                                
+                                                                                            <li class="nav-item ">
+                                    <a href="/electricity/2025/pumped_storage_hydropower" class="nav-link">
+                                        Pumped Storage Hydropower
+                                    </a>
+                                </li>
+
+                                
+                                                                                            <li class="nav-item ">
+                                    <a href="/electricity/2025/fossil_energy_technologies" class="nav-link">
+                                        Fossil Energy Technologies
+                                    </a>
+                                </li>
+
+                                
+                                                                                            <li class="nav-item ">
+                                    <a href="/electricity/2025/nuclear" class="nav-link">
+                                        Nuclear
+                                    </a>
+                                </li>
+
+                                
+                                                                                            <li class="nav-item ">
+                                    <a href="/electricity/2025/biopower_(eia)" class="nav-link">
+                                        Biopower (EIA)
+                                    </a>
+                                </li>
+
+                                
+                                                                                    </ul>
+                    </li>
+                                                                <li class="nav-item ">
+                    <a href="/electricity/2025/data" class="nav-link">Data</a>
+                </li>
+
+                
+                                        </ul>
+</nav>        </div>
+    </div>
+</div>
+
+            <footer id="footer" class="hidden-print">
+    <hr class="funding-hr">
+    <div id="funding">
+        <p>
+            Developed with funding from the U.S. Department of Energy’s Office of Critical Minerals and Energy Innovation.
+        </p>
+    </div>
+    <hr class="funding-hr">
+    <div class="footertop">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-lg-5">
+                    <a href="https://www.nlr.gov/index.html"><strong>National Laboratory of the Rockies</strong></a>
+                </div>
+                <div class="col col-lg-7">
+                    <div class="d-flex flex-column flex-lg-row justify-content-lg-start global">
+                        <div><a href="https://www.nlr.gov/about/index.html">About</a></div>
+                        <div><a href="https://www.nlr.gov/research/index.html">Research</a></div>
+                        <div><a href="https://www.nlr.gov/index.html">Work With Us</a></div>
+                        <div><a href="https://www.nlr.gov/news/index.html">News</a></div>
+                        <div><a href="https://www.nlr.gov/careers/index.html">Careers</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="footerbottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-lg-5">
+                    <div><a href="https://atb.nlr.gov/contact">Contact Us</a></div>
+                    <div class="mt-2"><a href="https://www.nlr.gov/about/visiting-nrel.html">Visit</a></div>
+                    <div class="mt-2"><a href="https://www.nlr.gov/news/subscribe.html">Subscribe to NLR</a></div>
+                    <div class="mt-3">
+                        <ul class="social-links list-inline">
+                            <li class="list-inline-item"><a href="https://www.facebook.com/nationalrenewableenergylab" aria-label="Follow NLR on Facebook"><i class="fa fa-facebook-square"><!--facebook--></i></a>
+                            </li>
+                            <li class="list-inline-item"><a href="https://www.instagram.com/nationalrenewableenergylab/" aria-label="Follow NLR on Instagram"><i class="fa fa-instagram"><!--Instagram--></i></a></li>
+                            <li class="list-inline-item"><a href="https://www.linkedin.com/company/national-renewable-energy-laboratory"
+                                aria-label="Follow NLR on Linked In"><i class="fa fa-linkedin-square"><!--Linked In--></i></a>
+                            </li>
+                            <li class="list-inline-item"><a href="https://www.youtube.com/user/NRELPR/" aria-label="Follow NLR on YouTube"><i class="fa fa-youtube"><!--You Tube--></i></a>
+                            </li>
+                            <li class="list-inline-item"><a href="https://twitter.com/nrel/" aria-label="Follow NLR on Twitter"><i class="fa fa-twitter"><!--twitter--></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-8 col-lg-7 globalsecondary">
+                    <div class="row">
+                        <div class="col-sm-6 col-lg-3">
+                            <div class="mt-1"><a href="https://www.nlr.gov/accessibility.html">Accessibility</a></div>
+                            <div class="mt-1"><a href="https://www.nlr.gov/disclaimer.html">Disclaimer</a></div>
+                            <div class="mt-1"><a href="https://www.nlr.gov/security.html">Security and Privacy</a></div>
+                            <div class="mt-1"><a href="https://www.nlr.gov/webmaster.html">Site Feedback</a></div>
+                        </div>
+                        <div class="col-sm-6 col-lg-3">
+
+                            <div class="mt-1"><a href="https://developer.nlr.gov/">Developers</a></div>
+                            <div class="mt-1"><a href="https://thesource.nlr.gov/">Employees</a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <hr />
+            <div class="mt-4">
+                <div class="row">
+                    <div class="col-sm-5">
+                        <!-- Alliance for Sustainable Energy
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣇
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡞⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⡦⣄⠀⠀⠀⠀⠀⠀⠀⢰⣟⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⢞⡕⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⡯⢧⡀⠀⠀⠘⣦⠀⠘⣿⣿⣇⠀⠀⠠⡖⠁⠀⣀⠀⣡⠿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⣦⡨⣀⡀⠀⡾⡄⠀⣧⡿⣾⠀⡀⠞⠀⠀⠌⣡⣾⡷⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⢠⡤⠀⠀⠀⠀⠀⠀⠀⠠⢤⡀⠈⠻⣿⣿⣿⣂⠹⠁⠀⠋⣙⣿⢰⢹⠁⢀⠃⣴⡿⠝⠀⠀⠀⠀⡄⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠻⣜⣸⠤⣤⢀⡀⠀⠀⠀⢿⢄⠀⠸⣿⡿⢟⠜⣿⣀⠻⣿⡟⣠⣿⠀⠃⢀⣿⡟⠀⠀⠀⠀⡿⠀⠀⠀⠀⡠⢜⣧⠟⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠉⠛⢶⣭⣏⣵⡠⡀⠈⠿⣷⣤⡸⢿⣞⡬⣫⣟⡴⠯⠝⡣⣱⡀⣠⣾⣿⢁⢄⣮⡓⠋⠀⠀⡠⢒⢈⣼⠟⠁⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣭⡃⣉⢢⠝⠿⡊⣣⢿⠋⠋⠈⠀⠀⠀⠀⠀⠉⠛⢮⡰⣥⡺⢃⢠⠄⠂⢄⣠⣷⣿⠏⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠀⠀⢠⠄⡀⠈⠛⢿⣗⣷⣴⣈⡾⠙⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⡑⢋⣧⣄⣲⣼⣿⣿⡿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠀⠀⠀⠉⠒⠯⣄⣤⣒⢋⡾⡟⠒⠀⠀⠀⠀⠀⠀⠤⡴⠎⡪⠅⣠⢛⡿⣿⣿⣿⢿⢓⣶⠦⠔⠛⠛⠂⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⡀⢀⣀⣀⠠⣒⣈⢉⣉⠡⠀⠐⠀⠉⠁⣹⣶⠴⣣⢄⣄⣀⣅⠠⡁⣵⣺⣽⣾⣟⣿⣷⣦⣶⣿⠝⠀⣀⠐⢒⢢⢦⡄⣀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠁⠒⠚⠛⠛⠻⠿⢿⣶⣷⣶⣶⣾⣷⣯⣩⣬⣴⣤⣭⣼⣽⣯⣮⣷⣿⣿⣿⣿⣿⣿⣿⣿⣧⣶⡶⣶⣶⣶⣿⣯⣵⣿⣮⣿⣷⠶⠶⠔
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀⣀⢄⣪⣭⣿⣿⣿⣿⣿⣷⣿⣿⡿⣟⣿⡿⣻⣿⣿⣿⣇⣿⣿⢿⣏⣫⠡⢀⠈⠉⠉⠉⠉⠉⠁⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠈⠉⠉⣈⣿⢿⣿⣿⣷⣿⣿⣾⡿⣽⣾⣿⣻⣿⣿⣿⣿⣻⠟⠐⠋⠅⡛⠛⠛⠒⠒⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠀⠀⠀⣠⠐⢀⣀⣤⡴⣺⠿⢟⣿⡿⣿⣿⣿⡿⣷⣒⣹⣮⢿⡿⣿⢹⢝⣵⢿⠿⣿⣾⣄⣨⠱⣢⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠀⢀⣬⣧⣾⡿⠟⠋⠉⡡⣠⣴⠗⢿⡿⣾⣷⢧⣛⣿⣷⢢⡽⣾⣿⠿⣿⡟⠲⣜⣄⠉⠻⣿⣷⣇⣯⣆⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠔⣸⡿⠙⠉⠀⠀⣠⡞⠛⠉⠀⡘⣡⣴⡻⢛⣋⣿⣿⣻⢻⡏⢿⠽⣷⣼⣮⡄⠈⠛⢷⣄⠀⠉⠛⢿⣼⣦⡄⡀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠈⠊⠉⠁⠀⠀⠀⠀⠐⠋⠀⠀⠀⢰⣵⣯⣿⠁⢸⣿⢸⣿⣿⣿⢱⢸⠀⢻⣿⢻⣧⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠙⠂⠒⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠔⢀⣼⣿⠃⠀⢼⡇⠸⡑⣷⡇⠈⣿⠀⠈⣿⣞⣻⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⣀⣴⡿⠟⠁⠀⢐⡝⠀⢨⣗⣿⠇⠀⠿⠀⠀⠘⣿⣶⣻⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⡻⠋⠀⠀⠀⠀⠈⠀⠀⢸⣿⣼⡇⠀⠀⠀⠀⠀⠈⠻⣿⣷⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\=====================================================\
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ \\⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\\
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |\\⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\\
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ | \\⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\\
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |  \\⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\\
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |  |\\⠀----------------------- ⠀⠀----------------------⠀\\
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |  | \\⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\\
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |  |  \\⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\\
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |  |   \\⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\\
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |  |    \\⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\\
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ |  |     \====================================================\
+                        -->
+                        <a href="https://www.alliance-for-energy-innovation.org/" title="Alliance for Energy Innovation, LLC">
+                            <img class="mr-5 mb-3"
+                                 src="/client/img/alliance-ei-logo_black.svg"
+                                 alt="Alliance for Energy Innovation, LLC"
+                                 width="200px"
+                                 >
+                        </a>
+                        <a href="https://www.energy.gov">
+                            <img src="/client/img/DOE-Logo-TM-Black.svg"
+                                alt="U.S. Department of Energy"
+                                class="mb-3"
+                                width="130px"
+                                >
+                        </a>
+                    </div>
+                    <div class="col-12 col-sm-7">
+                        <p class="nlr-attr">
+                            The National Laboratory of the Rockies is a national laboratory of the U.S. Department of Energy,
+                            Office of Critical Minerals and Energy Innovation, operated under Contract No. DE-AC36-08GO28308.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!--startindex-->
+<!-- == END APPLICATION FOOTER == -->
+
+<!-- == GLOBAL APPLICATION SCRIPTS == -->
+    <!-- Bootstrap -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+            integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+            crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+            integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+            crossorigin="anonymous"></script>
+
+    <!-- Global scripts -->
+    <script src="https://atb.nlr.gov/dist/js/libs.js" defer></script>
+    <script src="https://atb.nlr.gov/dist/js/app.js" defer></script>
+
+    <!-- == END GLOBAL APPLICATION SCRIPTS == -->
+
+        <script src="https://public.tableau.com/javascripts/api/tableau-2.0.0.min.js"></script>
+    
+
+    <script src="/dist/js/loadtableau.js?1787688849"></script>
+    <script src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js"
+        integrity="sha384-Wuix6BuhrWbjDBs24bXrjf4ZQ5aFeFWBuKkFekO2t8xFU0iNaLQfp2K6/1Nxveei"
+        id="MathJax-script" async crossorigin="anonymous">
+    </script>
+    
+<!-- Site application scripts -->
+<script src="/dist/js/plugins.js"></script>
+        </div>
+
+        
+        <div id="verification-pane" class="d-none">
+    <div class="container">
+        <div class="row issues-header">
+            <div class="col-1"> Section </div>
+            <div class="col-2"> Issue Type </div>
+            <div class="col-4"> Problem Text </div>
+            <div class="col-5"> Suggestion </div>
+        </div>
+        <hr>
+        <div id="issues-contents">
+            
+        </div>
+    </div>
+</div>	</body>
+</html>
